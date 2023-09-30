@@ -1,0 +1,4 @@
+/* Reduce opacity for suggestions */
+.suggest-widget .monaco-list-row .monaco-highlighted-label {
+    opacity: 0.6;
+}
